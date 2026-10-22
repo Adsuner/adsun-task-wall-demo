@@ -1,0 +1,10 @@
+# Adsun Task Ad Wall Demo
+
+> Task custom element with visible completion and no-inventory states.
+
+## Canonical sources
+- [README](https://github.com/Adsuner/adsun-task-wall-demo/blob/main/README.md): setup, scope and limitations.
+- [Official Adsun documentation](https://adsun.io/documentation/publisher/api-reference): upstream API/workflow reference.
+
+## Boundaries
+Independent teaching example, not proprietary SDK source. No credentials or environment files. Browser SDK is loaded only from https://api.adsun.io/sdk.js. No guarantee of search or AI indexing.
